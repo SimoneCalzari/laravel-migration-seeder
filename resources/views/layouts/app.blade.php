@@ -10,7 +10,7 @@
 </head>
 
 <body>
-
+    @yield('main')
 </body>
 
 </html>
